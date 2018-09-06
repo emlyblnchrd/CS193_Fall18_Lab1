@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Emily Blanchard's first CS193 Lab
+- no exams
+- only one hour a week of lecture/lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
